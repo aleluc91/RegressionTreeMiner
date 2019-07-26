@@ -1,0 +1,375 @@
+[INFO ] 2017-06-19 08:31:35.706 [main] MultiServer - 192.168.1.59
+[INFO ] 2017-06-19 08:31:35.708 [main] MultiServer - Server started on port 8080.
+[INFO ] 2017-06-19 08:31:52.110 [main] ServerOneClient - Connection established with 127.0.0.1 on port 63518
+[INFO ] 2017-06-19 08:31:52.201 [main] ServerOneClient - Client : 127.0.0.1 stream successful initialized.
+[INFO ] 2017-06-19 08:31:52.399 [Thread-1] ServerOneClient - Client 127.0.0.1 : requested operation 0.
+[INFO ] 2017-06-19 08:31:52.731 [Thread-1] ServerOneClient - Client 127.0.0.1 : successful database connection.
+[INFO ] 2017-06-19 08:31:52.823 [Thread-1] ServerOneClient - Client 127.0.0.1 : database schema initialized.
+[INFO ] 2017-06-19 08:31:52.827 [Thread-1] ServerOneClient - Client 127.0.0.1 : list of available tables sended.
+[INFO ] 2017-06-19 08:31:52.845 [Thread-1] ServerOneClient - Client 127.0.0.1 : requested operation 3.
+[WARN ] 2017-06-19 08:31:52.846 [Thread-1] ServerOneClient - Client 127.0.0.1 : no files on the server.
+[INFO ] 2017-06-19 08:31:52.846 [Thread-1] ServerOneClient - Client 127.0.0.1 : null list sent to client.
+[ERROR] 2017-06-19 08:32:13.286 [Thread-1] ServerOneClient - Client 127.0.0.1 : lost connection with the client.
+[INFO ] 2017-06-19 08:32:18.104 [main] ServerOneClient - Connection established with 127.0.0.1 on port 63520
+[INFO ] 2017-06-19 08:32:18.105 [main] ServerOneClient - Client : 127.0.0.1 stream successful initialized.
+[INFO ] 2017-06-19 08:32:18.260 [Thread-2] ServerOneClient - Client 127.0.0.1 : requested operation 0.
+[INFO ] 2017-06-19 08:32:18.274 [Thread-2] ServerOneClient - Client 127.0.0.1 : successful database connection.
+[INFO ] 2017-06-19 08:32:18.277 [Thread-2] ServerOneClient - Client 127.0.0.1 : database schema initialized.
+[INFO ] 2017-06-19 08:32:18.278 [Thread-2] ServerOneClient - Client 127.0.0.1 : list of available tables sended.
+[INFO ] 2017-06-19 08:32:18.294 [Thread-2] ServerOneClient - Client 127.0.0.1 : requested operation 3.
+[WARN ] 2017-06-19 08:32:18.294 [Thread-2] ServerOneClient - Client 127.0.0.1 : no files on the server.
+[INFO ] 2017-06-19 08:32:18.294 [Thread-2] ServerOneClient - Client 127.0.0.1 : null list sent to client.
+[ERROR] 2017-06-19 08:32:21.852 [Thread-2] ServerOneClient - Client 127.0.0.1 : lost connection with the client.
+[INFO ] 2017-06-19 08:32:28.680 [main] ServerOneClient - Connection established with 127.0.0.1 on port 63522
+[INFO ] 2017-06-19 08:32:28.682 [main] ServerOneClient - Client : 127.0.0.1 stream successful initialized.
+[INFO ] 2017-06-19 08:32:28.836 [Thread-3] ServerOneClient - Client 127.0.0.1 : requested operation 0.
+[INFO ] 2017-06-19 08:32:28.844 [Thread-3] ServerOneClient - Client 127.0.0.1 : successful database connection.
+[INFO ] 2017-06-19 08:32:28.846 [Thread-3] ServerOneClient - Client 127.0.0.1 : database schema initialized.
+[INFO ] 2017-06-19 08:32:28.847 [Thread-3] ServerOneClient - Client 127.0.0.1 : list of available tables sended.
+[INFO ] 2017-06-19 08:32:28.862 [Thread-3] ServerOneClient - Client 127.0.0.1 : requested operation 3.
+[WARN ] 2017-06-19 08:32:28.862 [Thread-3] ServerOneClient - Client 127.0.0.1 : no files on the server.
+[INFO ] 2017-06-19 08:32:28.863 [Thread-3] ServerOneClient - Client 127.0.0.1 : null list sent to client.
+[ERROR] 2017-06-19 08:32:45.039 [Thread-3] ServerOneClient - Client 127.0.0.1 : lost connection with the client.
+[INFO ] 2017-06-19 08:32:55.908 [main] MultiServer - 192.168.1.59
+[INFO ] 2017-06-19 08:32:55.911 [main] MultiServer - Server started on port 8080.
+[INFO ] 2017-06-19 08:33:10.027 [main] ServerOneClient - Connection established with 127.0.0.1 on port 63525
+[INFO ] 2017-06-19 08:33:10.096 [main] ServerOneClient - Client : 127.0.0.1 stream successful initialized.
+[INFO ] 2017-06-19 08:33:10.243 [Thread-1] ServerOneClient - Client 127.0.0.1 : requested operation 0.
+[INFO ] 2017-06-19 08:33:10.561 [Thread-1] ServerOneClient - Client 127.0.0.1 : successful database connection.
+[INFO ] 2017-06-19 08:33:10.568 [Thread-1] ServerOneClient - Client 127.0.0.1 : database schema initialized.
+[INFO ] 2017-06-19 08:33:10.572 [Thread-1] ServerOneClient - Client 127.0.0.1 : list of available tables sended.
+[INFO ] 2017-06-19 08:33:10.589 [Thread-1] ServerOneClient - Client 127.0.0.1 : requested operation 3.
+[WARN ] 2017-06-19 08:33:10.590 [Thread-1] ServerOneClient - Client 127.0.0.1 : no files on the server.
+[INFO ] 2017-06-19 08:33:10.590 [Thread-1] ServerOneClient - Client 127.0.0.1 : null list sent to client.
+[ERROR] 2017-06-19 08:33:41.401 [Thread-1] ServerOneClient - Client 127.0.0.1 : lost connection with the client.
+[INFO ] 2017-06-19 08:38:09.636 [main] MultiServer - 192.168.1.59
+[INFO ] 2017-06-19 08:38:09.638 [main] MultiServer - Server started on port 8080.
+[INFO ] 2017-06-19 08:38:19.373 [main] ServerOneClient - Connection established with 127.0.0.1 on port 63548
+[INFO ] 2017-06-19 08:38:19.477 [main] ServerOneClient - Client : 127.0.0.1 stream successful initialized.
+[INFO ] 2017-06-19 08:38:19.807 [Thread-1] ServerOneClient - Client 127.0.0.1 : requested operation 0.
+[INFO ] 2017-06-19 08:38:20.161 [Thread-1] ServerOneClient - Client 127.0.0.1 : successful database connection.
+[INFO ] 2017-06-19 08:38:20.168 [Thread-1] ServerOneClient - Client 127.0.0.1 : database schema initialized.
+[INFO ] 2017-06-19 08:38:20.171 [Thread-1] ServerOneClient - Client 127.0.0.1 : list of available tables sended.
+[INFO ] 2017-06-19 08:38:20.187 [Thread-1] ServerOneClient - Client 127.0.0.1 : requested operation 3.
+[WARN ] 2017-06-19 08:38:20.187 [Thread-1] ServerOneClient - Client 127.0.0.1 : no files on the server.
+[INFO ] 2017-06-19 08:38:20.187 [Thread-1] ServerOneClient - Client 127.0.0.1 : null list sent to client.
+[INFO ] 2017-06-19 08:41:01.659 [main] ServerOneClient - Connection established with 127.0.0.1 on port 63566
+[INFO ] 2017-06-19 08:41:01.660 [main] ServerOneClient - Client : 127.0.0.1 stream successful initialized.
+[INFO ] 2017-06-19 08:41:01.888 [Thread-2] ServerOneClient - Client 127.0.0.1 : requested operation 0.
+[INFO ] 2017-06-19 08:41:01.899 [Thread-2] ServerOneClient - Client 127.0.0.1 : successful database connection.
+[INFO ] 2017-06-19 08:41:01.902 [Thread-2] ServerOneClient - Client 127.0.0.1 : database schema initialized.
+[INFO ] 2017-06-19 08:41:01.903 [Thread-2] ServerOneClient - Client 127.0.0.1 : list of available tables sended.
+[INFO ] 2017-06-19 08:41:01.922 [Thread-2] ServerOneClient - Client 127.0.0.1 : requested operation 3.
+[WARN ] 2017-06-19 08:41:01.922 [Thread-2] ServerOneClient - Client 127.0.0.1 : no files on the server.
+[INFO ] 2017-06-19 08:41:01.923 [Thread-2] ServerOneClient - Client 127.0.0.1 : null list sent to client.
+[ERROR] 2017-06-19 08:41:27.769 [Thread-1] ServerOneClient - Client 127.0.0.1 : lost connection with the client.
+[ERROR] 2017-06-19 08:41:29.765 [Thread-2] ServerOneClient - Client 127.0.0.1 : lost connection with the client.
+[INFO ] 2017-06-19 08:43:50.631 [main] ServerOneClient - Connection established with 127.0.0.1 on port 63572
+[INFO ] 2017-06-19 08:43:50.632 [main] ServerOneClient - Client : 127.0.0.1 stream successful initialized.
+[INFO ] 2017-06-19 08:43:50.869 [Thread-3] ServerOneClient - Client 127.0.0.1 : requested operation 0.
+[INFO ] 2017-06-19 08:43:50.878 [Thread-3] ServerOneClient - Client 127.0.0.1 : successful database connection.
+[INFO ] 2017-06-19 08:43:50.881 [Thread-3] ServerOneClient - Client 127.0.0.1 : database schema initialized.
+[INFO ] 2017-06-19 08:43:50.882 [Thread-3] ServerOneClient - Client 127.0.0.1 : list of available tables sended.
+[INFO ] 2017-06-19 08:43:50.900 [Thread-3] ServerOneClient - Client 127.0.0.1 : requested operation 3.
+[WARN ] 2017-06-19 08:43:50.900 [Thread-3] ServerOneClient - Client 127.0.0.1 : no files on the server.
+[INFO ] 2017-06-19 08:43:50.901 [Thread-3] ServerOneClient - Client 127.0.0.1 : null list sent to client.
+[INFO ] 2017-06-19 08:44:04.447 [Thread-3] ServerOneClient - Client 127.0.0.1 : requested operation 1.
+[INFO ] 2017-06-19 08:44:04.448 [Thread-3] ServerOneClient - Client 127.0.0.1 : required table called prova2
+[INFO ] 2017-06-19 08:44:04.448 [Thread-3] ServerOneClient - Client 127.0.0.1 : message 'OK' sent to client.
+[INFO ] 2017-06-19 08:44:04.455 [Thread-3] ServerOneClient - Client 127.0.0.1 : requested operation 2.
+[INFO ] 2017-06-19 08:44:04.455 [Thread-3] ServerOneClient - Client 127.0.0.1 : starting learning phase from db.
+[INFO ] 2017-06-19 08:44:04.485 [Thread-3] ServerOneClient - Client 127.0.0.1 : training set learned.
+[INFO ] 2017-06-19 08:44:04.489 [Thread-3] ServerOneClient - Client 127.0.0.1 : regression tree constructed.
+[ERROR] 2017-06-19 08:44:04.490 [Thread-3] ServerOneClient - Client 127.0.0.1 : lost connection with the client.
+[INFO ] 2017-06-19 08:48:20.006 [main] ServerOneClient - Connection established with 127.0.0.1 on port 63580
+[INFO ] 2017-06-19 08:48:20.006 [main] ServerOneClient - Client : 127.0.0.1 stream successful initialized.
+[INFO ] 2017-06-19 08:48:20.251 [Thread-4] ServerOneClient - Client 127.0.0.1 : requested operation 0.
+[INFO ] 2017-06-19 08:48:20.260 [Thread-4] ServerOneClient - Client 127.0.0.1 : successful database connection.
+[INFO ] 2017-06-19 08:48:20.263 [Thread-4] ServerOneClient - Client 127.0.0.1 : database schema initialized.
+[INFO ] 2017-06-19 08:48:20.263 [Thread-4] ServerOneClient - Client 127.0.0.1 : list of available tables sended.
+[INFO ] 2017-06-19 08:48:20.282 [Thread-4] ServerOneClient - Client 127.0.0.1 : requested operation 3.
+[WARN ] 2017-06-19 08:48:20.282 [Thread-4] ServerOneClient - Client 127.0.0.1 : no files on the server.
+[INFO ] 2017-06-19 08:48:20.282 [Thread-4] ServerOneClient - Client 127.0.0.1 : null list sent to client.
+[INFO ] 2017-06-19 08:48:26.911 [Thread-4] ServerOneClient - Client 127.0.0.1 : requested operation 1.
+[INFO ] 2017-06-19 08:48:26.913 [Thread-4] ServerOneClient - Client 127.0.0.1 : required table called prova2
+[INFO ] 2017-06-19 08:48:26.913 [Thread-4] ServerOneClient - Client 127.0.0.1 : message 'OK' sent to client.
+[INFO ] 2017-06-19 08:48:26.918 [Thread-4] ServerOneClient - Client 127.0.0.1 : requested operation 2.
+[INFO ] 2017-06-19 08:48:26.918 [Thread-4] ServerOneClient - Client 127.0.0.1 : starting learning phase from db.
+[INFO ] 2017-06-19 08:48:26.935 [Thread-4] ServerOneClient - Client 127.0.0.1 : training set learned.
+[INFO ] 2017-06-19 08:48:26.936 [Thread-4] ServerOneClient - Client 127.0.0.1 : regression tree constructed.
+[ERROR] 2017-06-19 08:48:26.936 [Thread-4] ServerOneClient - Client 127.0.0.1 : lost connection with the client.
+[INFO ] 2017-06-19 08:51:05.751 [main] MultiServer - 192.168.1.59
+[INFO ] 2017-06-19 08:51:05.751 [main] MultiServer - Server started on port 8080.
+[INFO ] 2017-06-19 08:51:10.229 [main] ServerOneClient - Connection established with 127.0.0.1 on port 63667
+[INFO ] 2017-06-19 08:51:10.314 [main] ServerOneClient - Client : 127.0.0.1 stream successful initialized.
+[INFO ] 2017-06-19 08:51:10.546 [Thread-1] ServerOneClient - Client 127.0.0.1 : requested operation 0.
+[INFO ] 2017-06-19 08:51:10.931 [Thread-1] ServerOneClient - Client 127.0.0.1 : successful database connection.
+[INFO ] 2017-06-19 08:51:10.947 [Thread-1] ServerOneClient - Client 127.0.0.1 : database schema initialized.
+[INFO ] 2017-06-19 08:51:10.947 [Thread-1] ServerOneClient - Client 127.0.0.1 : list of available tables sended.
+[INFO ] 2017-06-19 08:51:10.957 [Thread-1] ServerOneClient - Client 127.0.0.1 : requested operation 3.
+[WARN ] 2017-06-19 08:51:10.957 [Thread-1] ServerOneClient - Client 127.0.0.1 : no files on the server.
+[INFO ] 2017-06-19 08:51:10.957 [Thread-1] ServerOneClient - Client 127.0.0.1 : null list sent to client.
+[INFO ] 2017-06-19 08:51:14.988 [Thread-1] ServerOneClient - Client 127.0.0.1 : requested operation 1.
+[INFO ] 2017-06-19 08:51:14.995 [Thread-1] ServerOneClient - Client 127.0.0.1 : required table called prova2
+[INFO ] 2017-06-19 08:51:14.996 [Thread-1] ServerOneClient - Client 127.0.0.1 : message 'OK' sent to client.
+[INFO ] 2017-06-19 08:51:14.997 [Thread-1] ServerOneClient - Client 127.0.0.1 : requested operation 2.
+[INFO ] 2017-06-19 08:51:14.997 [Thread-1] ServerOneClient - Client 127.0.0.1 : starting learning phase from db.
+[INFO ] 2017-06-19 08:51:15.022 [Thread-1] ServerOneClient - Client 127.0.0.1 : training set learned.
+[INFO ] 2017-06-19 08:51:15.022 [Thread-1] ServerOneClient - Client 127.0.0.1 : regression tree constructed.
+[ERROR] 2017-06-19 08:51:15.022 [Thread-1] ServerOneClient - Client 127.0.0.1 : lost connection with the client.
+[INFO ] 2017-06-19 08:54:20.528 [main] ServerOneClient - Connection established with 127.0.0.1 on port 63681
+[INFO ] 2017-06-19 08:54:20.533 [main] ServerOneClient - Client : 127.0.0.1 stream successful initialized.
+[INFO ] 2017-06-19 08:54:20.759 [Thread-2] ServerOneClient - Client 127.0.0.1 : requested operation 0.
+[INFO ] 2017-06-19 08:54:20.781 [Thread-2] ServerOneClient - Client 127.0.0.1 : successful database connection.
+[INFO ] 2017-06-19 08:54:20.781 [Thread-2] ServerOneClient - Client 127.0.0.1 : database schema initialized.
+[INFO ] 2017-06-19 08:54:20.781 [Thread-2] ServerOneClient - Client 127.0.0.1 : list of available tables sended.
+[INFO ] 2017-06-19 08:54:20.797 [Thread-2] ServerOneClient - Client 127.0.0.1 : requested operation 3.
+[WARN ] 2017-06-19 08:54:20.797 [Thread-2] ServerOneClient - Client 127.0.0.1 : no files on the server.
+[INFO ] 2017-06-19 08:54:20.797 [Thread-2] ServerOneClient - Client 127.0.0.1 : null list sent to client.
+[INFO ] 2017-06-19 08:54:25.067 [Thread-2] ServerOneClient - Client 127.0.0.1 : requested operation 1.
+[INFO ] 2017-06-19 08:54:25.074 [Thread-2] ServerOneClient - Client 127.0.0.1 : required table called prova2
+[INFO ] 2017-06-19 08:54:25.074 [Thread-2] ServerOneClient - Client 127.0.0.1 : message 'OK' sent to client.
+[INFO ] 2017-06-19 08:54:25.077 [Thread-2] ServerOneClient - Client 127.0.0.1 : requested operation 2.
+[INFO ] 2017-06-19 08:54:25.078 [Thread-2] ServerOneClient - Client 127.0.0.1 : starting learning phase from db.
+[INFO ] 2017-06-19 08:54:25.089 [Thread-2] ServerOneClient - Client 127.0.0.1 : training set learned.
+[INFO ] 2017-06-19 08:54:25.089 [Thread-2] ServerOneClient - Client 127.0.0.1 : regression tree constructed.
+[ERROR] 2017-06-19 08:54:25.089 [Thread-2] ServerOneClient - Client 127.0.0.1 : lost connection with the client.
+[INFO ] 2017-06-19 08:55:00.801 [main] ServerOneClient - Connection established with 127.0.0.1 on port 63686
+[INFO ] 2017-06-19 08:55:00.813 [main] ServerOneClient - Client : 127.0.0.1 stream successful initialized.
+[INFO ] 2017-06-19 08:55:01.040 [Thread-3] ServerOneClient - Client 127.0.0.1 : requested operation 0.
+[INFO ] 2017-06-19 08:55:01.054 [Thread-3] ServerOneClient - Client 127.0.0.1 : successful database connection.
+[INFO ] 2017-06-19 08:55:01.054 [Thread-3] ServerOneClient - Client 127.0.0.1 : database schema initialized.
+[INFO ] 2017-06-19 08:55:01.054 [Thread-3] ServerOneClient - Client 127.0.0.1 : list of available tables sended.
+[INFO ] 2017-06-19 08:55:01.070 [Thread-3] ServerOneClient - Client 127.0.0.1 : requested operation 3.
+[WARN ] 2017-06-19 08:55:01.070 [Thread-3] ServerOneClient - Client 127.0.0.1 : no files on the server.
+[INFO ] 2017-06-19 08:55:01.070 [Thread-3] ServerOneClient - Client 127.0.0.1 : null list sent to client.
+[INFO ] 2017-06-19 08:55:05.396 [Thread-3] ServerOneClient - Client 127.0.0.1 : requested operation 1.
+[INFO ] 2017-06-19 08:55:05.408 [Thread-3] ServerOneClient - Client 127.0.0.1 : required table called prova2
+[INFO ] 2017-06-19 08:55:05.408 [Thread-3] ServerOneClient - Client 127.0.0.1 : message 'OK' sent to client.
+[INFO ] 2017-06-19 08:55:05.408 [Thread-3] ServerOneClient - Client 127.0.0.1 : requested operation 2.
+[INFO ] 2017-06-19 08:55:05.408 [Thread-3] ServerOneClient - Client 127.0.0.1 : starting learning phase from db.
+[INFO ] 2017-06-19 08:55:05.418 [Thread-3] ServerOneClient - Client 127.0.0.1 : training set learned.
+[INFO ] 2017-06-19 08:55:05.418 [Thread-3] ServerOneClient - Client 127.0.0.1 : regression tree constructed.
+[ERROR] 2017-06-19 08:55:05.418 [Thread-3] ServerOneClient - Client 127.0.0.1 : lost connection with the client.
+[INFO ] 2017-06-19 08:55:43.239 [main] ServerOneClient - Connection established with 127.0.0.1 on port 63689
+[INFO ] 2017-06-19 08:55:43.253 [main] ServerOneClient - Client : 127.0.0.1 stream successful initialized.
+[INFO ] 2017-06-19 08:55:43.478 [Thread-4] ServerOneClient - Client 127.0.0.1 : requested operation 0.
+[INFO ] 2017-06-19 08:55:43.486 [Thread-4] ServerOneClient - Client 127.0.0.1 : successful database connection.
+[INFO ] 2017-06-19 08:55:43.489 [Thread-4] ServerOneClient - Client 127.0.0.1 : database schema initialized.
+[INFO ] 2017-06-19 08:55:43.490 [Thread-4] ServerOneClient - Client 127.0.0.1 : list of available tables sended.
+[INFO ] 2017-06-19 08:55:43.510 [Thread-4] ServerOneClient - Client 127.0.0.1 : requested operation 3.
+[WARN ] 2017-06-19 08:55:43.510 [Thread-4] ServerOneClient - Client 127.0.0.1 : no files on the server.
+[INFO ] 2017-06-19 08:55:43.510 [Thread-4] ServerOneClient - Client 127.0.0.1 : null list sent to client.
+[INFO ] 2017-06-19 08:55:47.733 [Thread-4] ServerOneClient - Client 127.0.0.1 : requested operation 1.
+[INFO ] 2017-06-19 08:55:47.735 [Thread-4] ServerOneClient - Client 127.0.0.1 : required table called prova2
+[INFO ] 2017-06-19 08:55:47.735 [Thread-4] ServerOneClient - Client 127.0.0.1 : message 'OK' sent to client.
+[INFO ] 2017-06-19 08:55:47.739 [Thread-4] ServerOneClient - Client 127.0.0.1 : requested operation 2.
+[INFO ] 2017-06-19 08:55:47.739 [Thread-4] ServerOneClient - Client 127.0.0.1 : starting learning phase from db.
+[INFO ] 2017-06-19 08:55:47.747 [Thread-4] ServerOneClient - Client 127.0.0.1 : training set learned.
+[INFO ] 2017-06-19 08:55:47.747 [Thread-4] ServerOneClient - Client 127.0.0.1 : regression tree constructed.
+[ERROR] 2017-06-19 08:55:47.747 [Thread-4] ServerOneClient - Client 127.0.0.1 : lost connection with the client.
+[INFO ] 2017-06-19 08:56:08.656 [main] ServerOneClient - Connection established with 127.0.0.1 on port 63692
+[INFO ] 2017-06-19 08:56:08.659 [main] ServerOneClient - Client : 127.0.0.1 stream successful initialized.
+[INFO ] 2017-06-19 08:56:08.878 [Thread-5] ServerOneClient - Client 127.0.0.1 : requested operation 0.
+[INFO ] 2017-06-19 08:56:08.890 [Thread-5] ServerOneClient - Client 127.0.0.1 : successful database connection.
+[INFO ] 2017-06-19 08:56:08.891 [Thread-5] ServerOneClient - Client 127.0.0.1 : database schema initialized.
+[INFO ] 2017-06-19 08:56:08.891 [Thread-5] ServerOneClient - Client 127.0.0.1 : list of available tables sended.
+[INFO ] 2017-06-19 08:56:08.907 [Thread-5] ServerOneClient - Client 127.0.0.1 : requested operation 3.
+[WARN ] 2017-06-19 08:56:08.907 [Thread-5] ServerOneClient - Client 127.0.0.1 : no files on the server.
+[INFO ] 2017-06-19 08:56:08.907 [Thread-5] ServerOneClient - Client 127.0.0.1 : null list sent to client.
+[INFO ] 2017-06-19 08:56:12.500 [Thread-5] ServerOneClient - Client 127.0.0.1 : requested operation 1.
+[INFO ] 2017-06-19 08:56:12.507 [Thread-5] ServerOneClient - Client 127.0.0.1 : required table called prova2
+[INFO ] 2017-06-19 08:56:12.507 [Thread-5] ServerOneClient - Client 127.0.0.1 : message 'OK' sent to client.
+[INFO ] 2017-06-19 08:56:12.508 [Thread-5] ServerOneClient - Client 127.0.0.1 : requested operation 2.
+[INFO ] 2017-06-19 08:56:12.508 [Thread-5] ServerOneClient - Client 127.0.0.1 : starting learning phase from db.
+[INFO ] 2017-06-19 08:56:12.518 [Thread-5] ServerOneClient - Client 127.0.0.1 : training set learned.
+[INFO ] 2017-06-19 08:56:12.518 [Thread-5] ServerOneClient - Client 127.0.0.1 : regression tree constructed.
+[ERROR] 2017-06-19 08:56:12.518 [Thread-5] ServerOneClient - Client 127.0.0.1 : lost connection with the client.
+[INFO ] 2017-06-19 08:57:34.626 [main] ServerOneClient - Connection established with 127.0.0.1 on port 63699
+[INFO ] 2017-06-19 08:57:34.639 [main] ServerOneClient - Client : 127.0.0.1 stream successful initialized.
+[INFO ] 2017-06-19 08:57:34.849 [Thread-6] ServerOneClient - Client 127.0.0.1 : requested operation 0.
+[INFO ] 2017-06-19 08:57:34.864 [Thread-6] ServerOneClient - Client 127.0.0.1 : successful database connection.
+[INFO ] 2017-06-19 08:57:34.864 [Thread-6] ServerOneClient - Client 127.0.0.1 : database schema initialized.
+[INFO ] 2017-06-19 08:57:34.864 [Thread-6] ServerOneClient - Client 127.0.0.1 : list of available tables sended.
+[INFO ] 2017-06-19 08:57:34.879 [Thread-6] ServerOneClient - Client 127.0.0.1 : requested operation 3.
+[WARN ] 2017-06-19 08:57:34.879 [Thread-6] ServerOneClient - Client 127.0.0.1 : no files on the server.
+[INFO ] 2017-06-19 08:57:34.879 [Thread-6] ServerOneClient - Client 127.0.0.1 : null list sent to client.
+[INFO ] 2017-06-19 08:57:40.456 [Thread-6] ServerOneClient - Client 127.0.0.1 : requested operation 1.
+[INFO ] 2017-06-19 08:57:40.467 [Thread-6] ServerOneClient - Client 127.0.0.1 : required table called prova2
+[INFO ] 2017-06-19 08:57:40.467 [Thread-6] ServerOneClient - Client 127.0.0.1 : message 'OK' sent to client.
+[INFO ] 2017-06-19 08:57:40.468 [Thread-6] ServerOneClient - Client 127.0.0.1 : requested operation 2.
+[INFO ] 2017-06-19 08:57:40.468 [Thread-6] ServerOneClient - Client 127.0.0.1 : starting learning phase from db.
+[INFO ] 2017-06-19 08:57:40.475 [Thread-6] ServerOneClient - Client 127.0.0.1 : training set learned.
+[INFO ] 2017-06-19 08:57:40.475 [Thread-6] ServerOneClient - Client 127.0.0.1 : regression tree constructed.
+[ERROR] 2017-06-19 08:57:40.475 [Thread-6] ServerOneClient - Client 127.0.0.1 : lost connection with the client.
+[INFO ] 2017-06-19 08:58:30.720 [main] ServerOneClient - Connection established with 127.0.0.1 on port 63704
+[INFO ] 2017-06-19 08:58:30.730 [main] ServerOneClient - Client : 127.0.0.1 stream successful initialized.
+[INFO ] 2017-06-19 08:58:30.974 [Thread-7] ServerOneClient - Client 127.0.0.1 : requested operation 0.
+[INFO ] 2017-06-19 08:58:30.996 [Thread-7] ServerOneClient - Client 127.0.0.1 : successful database connection.
+[INFO ] 2017-06-19 08:58:30.998 [Thread-7] ServerOneClient - Client 127.0.0.1 : database schema initialized.
+[INFO ] 2017-06-19 08:58:31.000 [Thread-7] ServerOneClient - Client 127.0.0.1 : list of available tables sended.
+[INFO ] 2017-06-19 08:58:31.018 [Thread-7] ServerOneClient - Client 127.0.0.1 : requested operation 3.
+[WARN ] 2017-06-19 08:58:31.018 [Thread-7] ServerOneClient - Client 127.0.0.1 : no files on the server.
+[INFO ] 2017-06-19 08:58:31.018 [Thread-7] ServerOneClient - Client 127.0.0.1 : null list sent to client.
+[INFO ] 2017-06-19 08:58:37.501 [Thread-7] ServerOneClient - Client 127.0.0.1 : requested operation 1.
+[INFO ] 2017-06-19 08:58:37.514 [Thread-7] ServerOneClient - Client 127.0.0.1 : required table called prova2
+[INFO ] 2017-06-19 08:58:37.515 [Thread-7] ServerOneClient - Client 127.0.0.1 : message 'OK' sent to client.
+[INFO ] 2017-06-19 08:58:37.518 [Thread-7] ServerOneClient - Client 127.0.0.1 : requested operation 2.
+[INFO ] 2017-06-19 08:58:37.518 [Thread-7] ServerOneClient - Client 127.0.0.1 : starting learning phase from db.
+[INFO ] 2017-06-19 08:58:37.523 [Thread-7] ServerOneClient - Client 127.0.0.1 : training set learned.
+[INFO ] 2017-06-19 08:58:37.523 [Thread-7] ServerOneClient - Client 127.0.0.1 : regression tree constructed.
+[ERROR] 2017-06-19 08:58:37.523 [Thread-7] ServerOneClient - Client 127.0.0.1 : lost connection with the client.
+[INFO ] 2017-06-19 08:59:04.513 [main] ServerOneClient - Connection established with 127.0.0.1 on port 63710
+[INFO ] 2017-06-19 08:59:04.525 [main] ServerOneClient - Client : 127.0.0.1 stream successful initialized.
+[INFO ] 2017-06-19 08:59:04.729 [Thread-8] ServerOneClient - Client 127.0.0.1 : requested operation 0.
+[INFO ] 2017-06-19 08:59:04.748 [Thread-8] ServerOneClient - Client 127.0.0.1 : successful database connection.
+[INFO ] 2017-06-19 08:59:04.749 [Thread-8] ServerOneClient - Client 127.0.0.1 : database schema initialized.
+[INFO ] 2017-06-19 08:59:04.749 [Thread-8] ServerOneClient - Client 127.0.0.1 : list of available tables sended.
+[INFO ] 2017-06-19 08:59:04.765 [Thread-8] ServerOneClient - Client 127.0.0.1 : requested operation 3.
+[WARN ] 2017-06-19 08:59:04.765 [Thread-8] ServerOneClient - Client 127.0.0.1 : no files on the server.
+[INFO ] 2017-06-19 08:59:04.765 [Thread-8] ServerOneClient - Client 127.0.0.1 : null list sent to client.
+[INFO ] 2017-06-19 08:59:08.790 [Thread-8] ServerOneClient - Client 127.0.0.1 : requested operation 1.
+[INFO ] 2017-06-19 08:59:08.791 [Thread-8] ServerOneClient - Client 127.0.0.1 : required table called prova2
+[INFO ] 2017-06-19 08:59:08.791 [Thread-8] ServerOneClient - Client 127.0.0.1 : message 'OK' sent to client.
+[INFO ] 2017-06-19 08:59:08.793 [Thread-8] ServerOneClient - Client 127.0.0.1 : requested operation 2.
+[INFO ] 2017-06-19 08:59:08.793 [Thread-8] ServerOneClient - Client 127.0.0.1 : starting learning phase from db.
+[INFO ] 2017-06-19 08:59:08.805 [Thread-8] ServerOneClient - Client 127.0.0.1 : training set learned.
+[INFO ] 2017-06-19 08:59:08.805 [Thread-8] ServerOneClient - Client 127.0.0.1 : regression tree constructed.
+[ERROR] 2017-06-19 08:59:08.805 [Thread-8] ServerOneClient - Client 127.0.0.1 : lost connection with the client.
+[INFO ] 2017-06-19 09:01:24.591 [main] ServerOneClient - Connection established with 127.0.0.1 on port 63723
+[INFO ] 2017-06-19 09:01:24.595 [main] ServerOneClient - Client : 127.0.0.1 stream successful initialized.
+[INFO ] 2017-06-19 09:01:24.807 [Thread-9] ServerOneClient - Client 127.0.0.1 : requested operation 0.
+[INFO ] 2017-06-19 09:01:24.820 [Thread-9] ServerOneClient - Client 127.0.0.1 : successful database connection.
+[INFO ] 2017-06-19 09:01:24.821 [Thread-9] ServerOneClient - Client 127.0.0.1 : database schema initialized.
+[INFO ] 2017-06-19 09:01:24.821 [Thread-9] ServerOneClient - Client 127.0.0.1 : list of available tables sended.
+[INFO ] 2017-06-19 09:01:24.843 [Thread-9] ServerOneClient - Client 127.0.0.1 : requested operation 3.
+[WARN ] 2017-06-19 09:01:24.843 [Thread-9] ServerOneClient - Client 127.0.0.1 : no files on the server.
+[INFO ] 2017-06-19 09:01:24.843 [Thread-9] ServerOneClient - Client 127.0.0.1 : null list sent to client.
+[INFO ] 2017-06-19 09:01:27.797 [Thread-9] ServerOneClient - Client 127.0.0.1 : requested operation 1.
+[INFO ] 2017-06-19 09:01:27.807 [Thread-9] ServerOneClient - Client 127.0.0.1 : required table called prova2
+[INFO ] 2017-06-19 09:01:27.807 [Thread-9] ServerOneClient - Client 127.0.0.1 : message 'OK' sent to client.
+[INFO ] 2017-06-19 09:01:27.808 [Thread-9] ServerOneClient - Client 127.0.0.1 : requested operation 2.
+[INFO ] 2017-06-19 09:01:27.808 [Thread-9] ServerOneClient - Client 127.0.0.1 : starting learning phase from db.
+[INFO ] 2017-06-19 09:01:27.830 [Thread-9] ServerOneClient - Client 127.0.0.1 : training set learned.
+[INFO ] 2017-06-19 09:01:27.830 [Thread-9] ServerOneClient - Client 127.0.0.1 : regression tree constructed.
+[ERROR] 2017-06-19 09:01:27.830 [Thread-9] ServerOneClient - Client 127.0.0.1 : lost connection with the client.
+[INFO ] 2017-06-19 09:03:30.946 [main] ServerOneClient - Connection established with 127.0.0.1 on port 63732
+[INFO ] 2017-06-19 09:03:30.948 [main] ServerOneClient - Client : 127.0.0.1 stream successful initialized.
+[INFO ] 2017-06-19 09:03:31.168 [Thread-10] ServerOneClient - Client 127.0.0.1 : requested operation 0.
+[INFO ] 2017-06-19 09:03:31.168 [Thread-10] ServerOneClient - Client 127.0.0.1 : successful database connection.
+[INFO ] 2017-06-19 09:03:31.181 [Thread-10] ServerOneClient - Client 127.0.0.1 : database schema initialized.
+[INFO ] 2017-06-19 09:03:31.182 [Thread-10] ServerOneClient - Client 127.0.0.1 : list of available tables sended.
+[INFO ] 2017-06-19 09:03:31.201 [Thread-10] ServerOneClient - Client 127.0.0.1 : requested operation 3.
+[WARN ] 2017-06-19 09:03:31.201 [Thread-10] ServerOneClient - Client 127.0.0.1 : no files on the server.
+[INFO ] 2017-06-19 09:03:31.201 [Thread-10] ServerOneClient - Client 127.0.0.1 : null list sent to client.
+[INFO ] 2017-06-19 09:03:36.890 [Thread-10] ServerOneClient - Client 127.0.0.1 : requested operation 1.
+[INFO ] 2017-06-19 09:03:36.902 [Thread-10] ServerOneClient - Client 127.0.0.1 : required table called prova2
+[INFO ] 2017-06-19 09:03:36.902 [Thread-10] ServerOneClient - Client 127.0.0.1 : message 'OK' sent to client.
+[INFO ] 2017-06-19 09:03:36.906 [Thread-10] ServerOneClient - Client 127.0.0.1 : requested operation 2.
+[INFO ] 2017-06-19 09:03:36.906 [Thread-10] ServerOneClient - Client 127.0.0.1 : starting learning phase from db.
+[INFO ] 2017-06-19 09:03:36.912 [Thread-10] ServerOneClient - Client 127.0.0.1 : training set learned.
+[INFO ] 2017-06-19 09:03:36.912 [Thread-10] ServerOneClient - Client 127.0.0.1 : regression tree constructed.
+[ERROR] 2017-06-19 09:03:36.912 [Thread-10] ServerOneClient - Client 127.0.0.1 : lost connection with the client.
+[INFO ] 2017-06-19 09:07:23.501 [Thread-1] MultiServer - 192.168.1.59
+[INFO ] 2017-06-19 09:07:23.501 [Thread-1] MultiServer - Server started on port 8080.
+[INFO ] 2017-06-19 09:07:28.086 [Thread-1] ServerOneClient - Connection established with 127.0.0.1 on port 63756
+[INFO ] 2017-06-19 09:07:28.155 [Thread-1] ServerOneClient - Client : 127.0.0.1 stream successful initialized.
+[INFO ] 2017-06-19 09:07:28.387 [Thread-2] ServerOneClient - Client 127.0.0.1 : requested operation 0.
+[INFO ] 2017-06-19 09:07:28.757 [Thread-2] ServerOneClient - Client 127.0.0.1 : successful database connection.
+[INFO ] 2017-06-19 09:07:28.757 [Thread-2] ServerOneClient - Client 127.0.0.1 : database schema initialized.
+[INFO ] 2017-06-19 09:07:28.757 [Thread-2] ServerOneClient - Client 127.0.0.1 : list of available tables sended.
+[INFO ] 2017-06-19 09:07:28.771 [Thread-2] ServerOneClient - Client 127.0.0.1 : requested operation 3.
+[WARN ] 2017-06-19 09:07:28.771 [Thread-2] ServerOneClient - Client 127.0.0.1 : no files on the server.
+[INFO ] 2017-06-19 09:07:28.771 [Thread-2] ServerOneClient - Client 127.0.0.1 : null list sent to client.
+[INFO ] 2017-06-19 09:07:33.178 [Thread-2] ServerOneClient - Client 127.0.0.1 : requested operation 1.
+[INFO ] 2017-06-19 09:07:33.194 [Thread-2] ServerOneClient - Client 127.0.0.1 : required table called prova2
+[INFO ] 2017-06-19 09:07:33.195 [Thread-2] ServerOneClient - Client 127.0.0.1 : message 'OK' sent to client.
+[INFO ] 2017-06-19 09:07:33.196 [Thread-2] ServerOneClient - Client 127.0.0.1 : requested operation 2.
+[INFO ] 2017-06-19 09:07:33.196 [Thread-2] ServerOneClient - Client 127.0.0.1 : starting learning phase from db.
+[INFO ] 2017-06-19 09:07:33.216 [Thread-2] ServerOneClient - Client 127.0.0.1 : training set learned.
+[INFO ] 2017-06-19 09:07:33.216 [Thread-2] ServerOneClient - Client 127.0.0.1 : regression tree constructed.
+[ERROR] 2017-06-19 09:07:33.216 [Thread-2] ServerOneClient - Client 127.0.0.1 : lost connection with the client.
+[INFO ] 2017-06-19 09:11:33.979 [Thread-1] MultiServer - 192.168.1.59
+[INFO ] 2017-06-19 09:11:33.982 [Thread-1] MultiServer - Server started on port 8080.
+[INFO ] 2017-06-19 09:11:42.647 [Thread-1] ServerOneClient - Connection established with 127.0.0.1 on port 63805
+[INFO ] 2017-06-19 09:11:42.732 [Thread-1] ServerOneClient - Client : 127.0.0.1 stream successful initialized.
+[INFO ] 2017-06-19 09:11:43.017 [Thread-2] ServerOneClient - Client 127.0.0.1 : requested operation 0.
+[INFO ] 2017-06-19 09:11:43.396 [Thread-2] ServerOneClient - Client 127.0.0.1 : successful database connection.
+[INFO ] 2017-06-19 09:11:43.418 [Thread-2] ServerOneClient - Client 127.0.0.1 : database schema initialized.
+[INFO ] 2017-06-19 09:11:43.418 [Thread-2] ServerOneClient - Client 127.0.0.1 : list of available tables sended.
+[INFO ] 2017-06-19 09:11:43.472 [Thread-2] ServerOneClient - Client 127.0.0.1 : requested operation 3.
+[INFO ] 2017-06-19 09:11:43.472 [Thread-2] ServerOneClient - Client : 127.0.0.1 : list of files learned.
+[INFO ] 2017-06-19 09:11:43.472 [Thread-2] ServerOneClient - Client : 127.0.0.1 : list of files sent to client.
+[INFO ] 2017-06-19 09:11:45.854 [Thread-2] ServerOneClient - Client 127.0.0.1 : requested operation 1.
+[INFO ] 2017-06-19 09:11:45.868 [Thread-2] ServerOneClient - Client 127.0.0.1 : required table called prova2
+[INFO ] 2017-06-19 09:11:45.869 [Thread-2] ServerOneClient - Client 127.0.0.1 : message 'OK' sent to client.
+[INFO ] 2017-06-19 09:11:45.870 [Thread-2] ServerOneClient - Client 127.0.0.1 : requested operation 2.
+[INFO ] 2017-06-19 09:11:45.870 [Thread-2] ServerOneClient - Client 127.0.0.1 : starting learning phase from db.
+[INFO ] 2017-06-19 09:11:45.986 [Thread-2] ServerOneClient - Client 127.0.0.1 : training set learned.
+[INFO ] 2017-06-19 09:11:46.023 [Thread-2] ServerOneClient - Client 127.0.0.1 : regression tree constructed.
+[INFO ] 2017-06-19 09:11:46.038 [Thread-2] ServerOneClient - Client 127.0.0.1 : file created in data/prova2.dmp
+[INFO ] 2017-06-19 09:11:46.038 [Thread-2] ServerOneClient - Client 127.0.0.1 : rules sent to client.
+[INFO ] 2017-06-19 09:11:46.038 [Thread-2] ServerOneClient - Client 127.0.0.1 : requested operation 6.
+[INFO ] 2017-06-19 09:11:46.054 [Thread-2] ServerOneClient - Client 127.0.0.1 : tree structure sent to client.
+[INFO ] 2017-06-19 09:25:38.637 [Thread-1] MultiServer - 192.168.1.59
+[INFO ] 2017-06-19 09:25:38.637 [Thread-1] MultiServer - Server started on port 8080.
+[INFO ] 2017-06-19 09:25:43.261 [Thread-1] ServerOneClient - Connection established with 127.0.0.1 on port 63861
+[INFO ] 2017-06-19 09:25:43.361 [Thread-1] ServerOneClient - Client : 127.0.0.1 stream successful initialized.
+[INFO ] 2017-06-19 09:25:43.793 [Thread-2] ServerOneClient - Client 127.0.0.1 : requested operation 0.
+[INFO ] 2017-06-19 09:25:44.217 [Thread-2] ServerOneClient - Client 127.0.0.1 : successful database connection.
+[INFO ] 2017-06-19 09:25:44.220 [Thread-2] ServerOneClient - Client 127.0.0.1 : database schema initialized.
+[INFO ] 2017-06-19 09:25:44.220 [Thread-2] ServerOneClient - Client 127.0.0.1 : list of available tables sended.
+[INFO ] 2017-06-19 09:25:44.297 [Thread-2] ServerOneClient - Client 127.0.0.1 : requested operation 3.
+[INFO ] 2017-06-19 09:25:44.304 [Thread-2] ServerOneClient - Client : 127.0.0.1 : list of files learned.
+[INFO ] 2017-06-19 09:25:44.305 [Thread-2] ServerOneClient - Client : 127.0.0.1 : list of files sent to client.
+[INFO ] 2017-06-19 09:26:17.204 [Thread-2] ServerOneClient - Client 127.0.0.1 : requested operation 4.
+[INFO ] 2017-06-19 09:26:17.204 [Thread-2] ServerOneClient - Client 127.0.0.1 : starting learning phase from file.
+[INFO ] 2017-06-19 09:26:17.211 [Thread-2] ServerOneClient - Client 127.0.0.1 : request file called prova2.dmp.
+[INFO ] 2017-06-19 09:26:17.288 [Thread-2] ServerOneClient - Client 127.0.0.1 : regression tree constructed.
+[INFO ] 2017-06-19 09:26:17.288 [Thread-2] ServerOneClient - Client 127.0.0.1 : rules sent to client.
+[INFO ] 2017-06-19 09:26:17.303 [Thread-2] ServerOneClient - Client 127.0.0.1 : requested operation 6.
+[INFO ] 2017-06-19 09:26:17.319 [Thread-2] ServerOneClient - Client 127.0.0.1 : tree structure sent to client.
+[INFO ] 2017-06-19 09:26:41.781 [Thread-2] ServerOneClient - Client 127.0.0.1 : requested operation 7.
+[INFO ] 2017-06-19 09:26:41.781 [Thread-2] ServerOneClient - Client 127.0.0.1 : disconnected.
+[INFO ] 2017-06-19 09:33:10.520 [Thread-1] MultiServer - 192.168.1.59
+[INFO ] 2017-06-19 09:33:10.536 [Thread-1] MultiServer - Server started on port 8080.
+[INFO ] 2017-06-19 09:33:43.949 [Thread-1] MultiServer - 192.168.1.59
+[INFO ] 2017-06-19 09:33:43.953 [Thread-1] MultiServer - Server started on port 8080.
+[INFO ] 2017-06-19 12:18:33.192 [Thread-1] MultiServer - 192.168.1.59
+[INFO ] 2017-06-19 12:18:33.228 [Thread-1] MultiServer - Server started on port 8080.
+[INFO ] 2017-06-19 12:18:56.489 [Thread-1] ServerOneClient - Connection established with 127.0.0.1 on port 65021
+[INFO ] 2017-06-19 12:18:56.569 [Thread-1] ServerOneClient - Client : 127.0.0.1 stream successful initialized.
+[INFO ] 2017-06-19 12:18:56.790 [Thread-2] ServerOneClient - Client 127.0.0.1 : richiesta operazione numero 0.
+[INFO ] 2017-06-19 12:18:57.575 [Thread-2] ServerOneClient - Client 127.0.0.1 : connessione al database avvenuta con successo.
+[INFO ] 2017-06-19 12:18:57.615 [Thread-2] ServerOneClient - Client 127.0.0.1 : schema del database inizializzato.
+[INFO ] 2017-06-19 12:18:57.618 [Thread-2] ServerOneClient - Client 127.0.0.1 : lista della tabelle disponibili inviata.
+[INFO ] 2017-06-19 12:18:57.633 [Thread-2] ServerOneClient - Client 127.0.0.1 : richiesta operazione numero 3.
+[INFO ] 2017-06-19 12:18:57.634 [Thread-2] ServerOneClient - Client : 127.0.0.1 : lista dei file appresa.
+[INFO ] 2017-06-19 12:18:57.634 [Thread-2] ServerOneClient - Client : 127.0.0.1 : lista dei file inviata al client.
+[INFO ] 2017-06-19 12:19:12.930 [Thread-2] ServerOneClient - Client 127.0.0.1 : richiesta operazione numero 1.
+[INFO ] 2017-06-19 12:19:12.931 [Thread-2] ServerOneClient - Client 127.0.0.1 : richiesta tabella prova3
+[INFO ] 2017-06-19 12:19:12.931 [Thread-2] ServerOneClient - Client 127.0.0.1 : messaggio 'OK' inviato al client.
+[INFO ] 2017-06-19 12:19:12.937 [Thread-2] ServerOneClient - Client 127.0.0.1 : richiesta operazione numero 2.
+[INFO ] 2017-06-19 12:19:12.937 [Thread-2] ServerOneClient - Client 127.0.0.1 : fase di apprendimento dal database avviata.
+[INFO ] 2017-06-19 12:19:16.769 [Thread-2] ServerOneClient - Client 127.0.0.1 : richiesta operazione numero 1.
+[INFO ] 2017-06-19 12:19:16.769 [Thread-2] ServerOneClient - Client 127.0.0.1 : richiesta tabella prova2
+[INFO ] 2017-06-19 12:19:16.769 [Thread-2] ServerOneClient - Client 127.0.0.1 : messaggio 'OK' inviato al client.
+[INFO ] 2017-06-19 12:19:16.770 [Thread-2] ServerOneClient - Client 127.0.0.1 : richiesta operazione numero 2.
+[INFO ] 2017-06-19 12:19:16.770 [Thread-2] ServerOneClient - Client 127.0.0.1 : fase di apprendimento dal database avviata.
+[INFO ] 2017-06-19 12:19:16.827 [Thread-2] ServerOneClient - Client 127.0.0.1 : training set appreso.
+[INFO ] 2017-06-19 12:19:16.877 [Thread-2] ServerOneClient - Client 127.0.0.1 : regression tree costruito.
+[INFO ] 2017-06-19 12:19:16.906 [Thread-2] ServerOneClient - Client 127.0.0.1 : file creato in data/prova2.dmp
+[INFO ] 2017-06-19 12:19:16.906 [Thread-2] ServerOneClient - Client 127.0.0.1 : regole inviate al client.
+[INFO ] 2017-06-19 12:19:16.921 [Thread-2] ServerOneClient - Client 127.0.0.1 : richiesta operazione numero 6.
+[INFO ] 2017-06-19 12:19:16.973 [Thread-2] ServerOneClient - Client 127.0.0.1 : struttura dell'albero inviata al client.
+[INFO ] 2017-06-19 12:19:19.364 [Thread-2] ServerOneClient - Client 127.0.0.1 : richiesta operazione numero 3.
+[INFO ] 2017-06-19 12:19:19.365 [Thread-2] ServerOneClient - Client : 127.0.0.1 : lista dei file appresa.
+[INFO ] 2017-06-19 12:19:19.365 [Thread-2] ServerOneClient - Client : 127.0.0.1 : lista dei file inviata al client.
+[INFO ] 2017-06-19 12:19:28.875 [Thread-2] ServerOneClient - Client 127.0.0.1 : richiesta operazione numero 5.
+[ERROR] 2017-06-19 12:19:33.473 [Thread-2] ServerOneClient - Client 127.0.0.1 : 
+server.UnknownValueException: The answer should be an integer between 0 and 1!
+	at server.ServerOneClient.predictClass(ServerOneClient.java:231) ~[bin/:?]
+	at server.ServerOneClient.run(ServerOneClient.java:162) [bin/:?]
+[INFO ] 2017-06-19 12:19:38.463 [Thread-2] ServerOneClient - Client 127.0.0.1 : richiesta operazione numero 5.
+[INFO ] 2017-06-19 12:20:12.941 [Thread-2] ServerOneClient - Client 127.0.0.1 : richiesta operazione numero 7.
+[INFO ] 2017-06-19 12:20:12.941 [Thread-2] ServerOneClient - Client 127.0.0.1 : disconnesso.

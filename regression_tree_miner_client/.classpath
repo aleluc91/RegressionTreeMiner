@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="RegressionTreeClient/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="RegressionTreeClient/src/lib/org.abego.treelayout.core-1.0.3.jar"/>
+	<classpathentry kind="output" path="RegressionTreeClient/bin"/>
+</classpath>

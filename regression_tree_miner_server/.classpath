@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="ReegressionTreeServer/src"/>
+	<classpathentry kind="lib" path="ReegressionTreeServer/library/mysql-connector-java-5.1.40-bin.jar"/>
+	<classpathentry kind="lib" path="ReegressionTreeServer/library/org.abego.treelayout.core-1.0.3.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="ReegressionTreeServer/library/log4j-core-2.8.1.jar"/>
+	<classpathentry kind="lib" path="ReegressionTreeServer/library/log4j-api-2.8.1.jar"/>
+	<classpathentry kind="lib" path="ReegressionTreeServer/library/log4j-1.2-api-2.8.1.jar"/>
+	<classpathentry kind="output" path="ReegressionTreeServer/bin"/>
+</classpath>
