@@ -7,4 +7,7 @@ Progetto svolto durante il corso di metodi avanzati di programmazione.
 * java 1.8+
 
 # Utilizzo
-
+Per avviare il server aprire il prompt dei comandi, e recarsi nella cartella server. Eseguire il seguente comando:
+* ```start_server.bat```
+Per avviare il client aprire il prompt dei comandi, e recarsi nella cartella server. Eseguire il seguente comando:
+* ```run_client.bat```
